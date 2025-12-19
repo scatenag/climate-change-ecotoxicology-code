@@ -1,4 +1,6 @@
 # Climate Change Ecotoxicology - Analysis Code Repository
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17989514.svg)](https://doi.org/10.5281/zenodo.17989514)
+
 
 **Study**: Climate Change Exceeds Metal Contamination as the Primary Driver of Biological Stress in Mediterranean Mussels
 
