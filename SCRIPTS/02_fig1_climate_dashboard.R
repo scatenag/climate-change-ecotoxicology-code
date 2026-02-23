@@ -239,8 +239,8 @@ p_oxygen <- ggplot(climate, aes(x=date)) +
   # Trend line
   geom_line(aes(y=oxygen_trend), color="cyan3", linetype="dashed", linewidth=1) +
   labs(
-    title=expression("(C) Oxygen Depletion ("*O[2]*")"),
-    y=expression(O[2]~"(mmol/m"^3*")"),
+    title=expression(bold("(C) Oxygen Depletion ("*O[2]*")")),
+    y=expression(bold(O[2]~"(mmol/m"^3*")")),
     x=""
   ) +
   scale_x_date(date_breaks="1 year", date_labels="%Y") +
